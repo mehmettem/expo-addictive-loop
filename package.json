@@ -25,7 +25,7 @@
   ],
   "license": "MIT",
   "dependencies": {
-    "@react-native-async-storage/async-storage": "3.1.1",
+    "@react-native-async-storage/async-storage": "2.2.0",
     "expo": "~57.0.21",
     "expo-haptics": "~57.0.2",
     "expo-linear-gradient": "~57.0.1",
@@ -36,6 +36,6 @@
   "devDependencies": {
     "@types/react": "~19.2.2",
     "expo-doctor": "^1.18.1",
-    "typescript": "~5.9.2"
+    "typescript": "~6.0.3"
   }
 }
