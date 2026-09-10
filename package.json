@@ -1,0 +1,45 @@
+{
+  "name": "expo-addictive-loop",
+  "version": "1.0.0",
+  "description": "A reusable Expo and React Native mini-game kit for satisfying skill, reward, and progression loops.",
+  "private": true,
+  "main": "node_modules/expo/AppEntry.js",
+  "scripts": {
+    "start": "expo start",
+    "android": "expo start --android",
+    "ios": "expo start --ios",
+    "web": "expo start --web",
+    "typecheck": "tsc --noEmit",
+    "doctor": "expo-doctor"
+  },
+  "keywords": [
+    "expo",
+    "react-native",
+    "game",
+    "game-engine",
+    "addictive",
+    "haptics",
+    "typescript",
+    "mini-game",
+    "expo-go"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "@expo/metro-runtime": "~57.0.15",
+    "@react-native-async-storage/async-storage": "2.2.0",
+    "expo": "~57.0.21",
+    "expo-haptics": "~57.0.2",
+    "expo-linear-gradient": "~57.0.1",
+    "expo-status-bar": "~57.0.1",
+    "react": "19.2.3",
+    "react-dom": "19.2.3",
+    "react-native": "0.86.3",
+    "react-native-safe-area-context": "~5.7.0",
+    "react-native-web": "^0.21.2"
+  },
+  "devDependencies": {
+    "@types/react": "~19.2.2",
+    "expo-doctor": "^1.18.1",
+    "typescript": "~6.0.3"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "expo": {
+    "name": "Addictive Loop Kit",
+    "slug": "expo-addictive-loop",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "backgroundColor": "#071827",
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "dev.addictiveloop.demo"
+    },
+    "android": {
+      "package": "dev.addictiveloop.demo",
+      "adaptiveIcon": {
+        "backgroundColor": "#071827"
+      }
+    }
+  }
+}
